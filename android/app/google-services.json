@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712138062332",
+    "project_id": "animexa-90bd0",
+    "storage_bucket": "animexa-90bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712138062332:android:99eda98de4b72fce279a79",
+        "android_client_info": {
+          "package_name": "com.example.animexa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDliYnsPtreasesu0NW5h_KFcBf0ReGyKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

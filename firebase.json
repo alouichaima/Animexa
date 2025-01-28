@@ -1,0 +1,26 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "animexa",
+          "appId": "1:587862017915:android:5e2dec38e29ddacd80dfde",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "animexa",
+          "configurations": {
+            "android": "1:712138062332:android:99eda98de4b72fce279a79",
+            "web": "1:712138062332:web:7fec763a8943323a279a79"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
